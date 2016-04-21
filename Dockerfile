@@ -1,5 +1,5 @@
 From java:7
-COPY JavaHelloWrold.java .
+COPY JavaHelloWorld.java .
 RUN javac JavaHelloWorld.java
 
 
